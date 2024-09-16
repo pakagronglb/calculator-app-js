@@ -27,7 +27,7 @@ This project is based on the YouTube tutorial 'Build A Calculator With JavaScrip
 
 2. Navigate to the project directory:
     ```bash
-    cd calculator-project
+    cd calculator-app-js
     ```
 
 ## Tools & Resources
